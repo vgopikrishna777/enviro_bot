@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+google-generativeai
+earthengine-api
+geemap
+
+geopandas
